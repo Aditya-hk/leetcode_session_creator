@@ -1,7 +1,8 @@
 # Leetcode Session Creator
 
+**[DEPRECATED]** Leetcode has already moved on to their new lists feature. This repository will no longer be of use.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/krzysiekkuch)
+----------------------------------------------
 
 Recently Leetcode started to deprecate the old session system,
 and the button to create a new session is not clickable,
